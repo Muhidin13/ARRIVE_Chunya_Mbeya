@@ -22,6 +22,6 @@ ARRIVE is an innovative transport and delivery application designed to revolutio
 ## How to Apply
 If you are passionate about transforming the transport and delivery industry and have the skills to develop a high-quality application and website, we want to hear from you!
 
-Please send your resume and portfolio to [your-email@example.com] with the subject line "Developer Application for ARRIVE Project".
+Please send your resume and portfolio to [Muhidin_mombo@outlook.com] with the subject line "Developer Application for ARRIVE Project".
 
 Join us in creating the future of transport and delivery with ARRIVE!
